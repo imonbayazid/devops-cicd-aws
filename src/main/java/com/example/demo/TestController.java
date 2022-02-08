@@ -9,7 +9,7 @@ public class TestController {
 	@RequestMapping("/test")
 	public String test()
 	{
-	  return "i m from test";	
+	  return "i am from updated test";	
 	}
 
 }
