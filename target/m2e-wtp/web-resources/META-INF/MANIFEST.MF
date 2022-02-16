@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Build-Jdk-Spec: 11
-Implementation-Title: demo
-Implementation-Version: 0.0.1-SNAPSHOT
-Main-Class: com.example.demo.DemoApplication
-Created-By: Maven Integration for Eclipse
-
